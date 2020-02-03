@@ -1,0 +1,3 @@
+C:\Users\Robo\source\repos\ConnectionTemplate\ConnectionTemplate\obj\Debug\netcoreapp3.1\ConnectionTemplate.csprojAssemblyReference.cache
+C:\Users\Robo\source\repos\ConnectionTemplate\ConnectionTemplate\obj\Debug\netcoreapp3.1\ConnectionTemplate.AssemblyInfoInputs.cache
+C:\Users\Robo\source\repos\ConnectionTemplate\ConnectionTemplate\obj\Debug\netcoreapp3.1\ConnectionTemplate.AssemblyInfo.cs
